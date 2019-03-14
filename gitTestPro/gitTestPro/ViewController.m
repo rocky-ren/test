@@ -17,7 +17,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    //hisdfio
+    // hisdfio
+    // 受到法国 i 额外规范
 }
 
 
